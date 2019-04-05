@@ -7,6 +7,6 @@ Try out git and all that
 _italic_
 `code block`
 
-*unordred list
--one thing
--another thing
+*unordered list
+*one thing
+*another thing
