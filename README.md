@@ -10,3 +10,5 @@ _italic_
 * unordered list
 * one thing
 * another thing
+
+![kangaroo](kangaroo.jpg)
